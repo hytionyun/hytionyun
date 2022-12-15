@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img src="https://25.media.tumblr.com/tumblr_m19ay5UfaL1qzl9pho1_400.gif" height=50px width=65px>
+  <img src="https://static.wikia.nocookie.net/nyancat/images/b/bc/Gb.gif/revision/latest/scale-to-width-down/185?cb=20130805122749" height=30px width=45px>
   <samp>
     <br><br>
     Hello, Welcome to my GitHub 🪐<br>
